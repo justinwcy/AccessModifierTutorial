@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifierTutorial", "AccessModifierTutorial.csproj", "{EEAD081A-7FFE-443E-8D2D-7AA102346B9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifierLibrary", "..\AccessModifierLibrary\AccessModifierLibrary.csproj", "{7BFF41AB-E262-4503-9630-70B38BC23842}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEAD081A-7FFE-443E-8D2D-7AA102346B9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEAD081A-7FFE-443E-8D2D-7AA102346B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEAD081A-7FFE-443E-8D2D-7AA102346B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEAD081A-7FFE-443E-8D2D-7AA102346B9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BFF41AB-E262-4503-9630-70B38BC23842}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BFF41AB-E262-4503-9630-70B38BC23842}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BFF41AB-E262-4503-9630-70B38BC23842}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BFF41AB-E262-4503-9630-70B38BC23842}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3801DA50-DFC4-4B00-869C-EF87D6337768}
+	EndGlobalSection
+EndGlobal
